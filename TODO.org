@@ -1,0 +1,4 @@
+* Search more
+
+When the results are displayed to the user he/she is prompted with message, do you wants know more with googling the search query.
+If the user selects yes, then a new tab in the default browser will be opened with the results for the given query.
